@@ -1,0 +1,1478 @@
+{
+  "programme": {
+    "date": "2022-09-28",
+    "entries": [
+      {
+        "media_id": null,
+        "title": null,
+        "description": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+        "webmedia_title_id": null,
+        "start_time": 1664348400,
+        "end_time": 1664355599,
+        "human_start_time": "07:00:00+00:00",
+        "human_end_time": "08:59:59+00:00",
+        "duration_in_minutes": 119,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/11927.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13373.png",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": null,
+          "Pais": "Brasil",
+          "Classe": "Jornalismo",
+          "TituloOriginal": null,
+          "Dublador": null,
+          "URLPrograma": "https://g1.globo.com/hora1/",
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Hora Um",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": null,
+        "title": null,
+        "description": "Telejornal matutino, exibido de segunda à sexta. Apresenta notícias e atualidades do Paraná.",
+        "webmedia_title_id": null,
+        "start_time": 1664355600,
+        "end_time": 1664364599,
+        "human_start_time": "09:00:00+00:00",
+        "human_end_time": "11:29:59+00:00",
+        "duration_in_minutes": 149,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/2855.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/2854.png",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Telejornal matutino, exibido de segunda à sexta. Apresenta notícias e atualidades do Paraná.",
+            "ResumoImprensa": null,
+            "Destaque": "Bom Dia Paraná "
+          },
+          "Elenco": null,
+          "Pais": null,
+          "Classe": "Jornalismo",
+          "TituloOriginal": null,
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "SD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Bom Dia Paraná",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Bom Dia Brasil",
+        "description": "O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.",
+        "webmedia_title_id": "HMmTps9vSY",
+        "start_time": 1664364600,
+        "end_time": 1664368199,
+        "human_start_time": "11:30:00+00:00",
+        "human_end_time": "12:29:59+00:00",
+        "duration_in_minutes": 59,
+        "live_broadcast": true,
+        "custom_info": {
+          "Diretor": "Ali Kamel",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/15011.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/7.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": null,
+          "Pais": "Brasil",
+          "Classe": "Jornalismo",
+          "TituloOriginal": "Bom Dia Brasil",
+          "Dublador": null,
+          "URLPrograma": "https://g1.globo.com/bom-dia-brasil/",
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Bom Dia Brasil",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 810
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Encontro com Patrícia Poeta",
+        "description": "Patrícia Poeta, ao lado de Manoel Soares, comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.",
+        "webmedia_title_id": "Xfv2NmgVZW",
+        "start_time": 1664368200,
+        "end_time": 1664372399,
+        "human_start_time": "12:30:00+00:00",
+        "human_end_time": "13:39:59+00:00",
+        "duration_in_minutes": 69,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/15403.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15422.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Patrícia Poeta, ao lado de Manoel Soares, comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e diversão.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": null,
+          "Pais": "Brasileira",
+          "Classe": "Variedade",
+          "TituloOriginal": "Encontro Com Patrícia Poeta ",
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Encontro Com Patrícia Poeta",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 20621
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Mais Você",
+        "description": "Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.",
+        "webmedia_title_id": "n9Vq6SMvsm",
+        "start_time": 1664372400,
+        "end_time": 1664376299,
+        "human_start_time": "13:40:00+00:00",
+        "human_end_time": "14:44:59+00:00",
+        "duration_in_minutes": 64,
+        "live_broadcast": true,
+        "custom_info": {
+          "Diretor": "Vivi de Marco",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/15226.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/10807.jpeg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": "Ana Maria Braga",
+          "Pais": "Brasil",
+          "Classe": "Variedade",
+          "TituloOriginal": "Mais Você",
+          "Dublador": null,
+          "URLPrograma": "https://gshow.globo.com/programas/mais-voce/",
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Mais Você",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 2533
+        }
+      },
+      {
+        "media_id": null,
+        "title": null,
+        "description": "Telejornal local, exibido de segunda a sábado, ao meio-dia. Destaca os principais fatos do dia e apresenta reportagens produzidas pelas oito emissoras da RPC.",
+        "webmedia_title_id": null,
+        "start_time": 1664376300,
+        "end_time": 1664379779,
+        "human_start_time": "14:45:00+00:00",
+        "human_end_time": "15:42:59+00:00",
+        "duration_in_minutes": 57,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/2857.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/2856.png",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Telejornal local, exibido de segunda a sábado, ao meio-dia. Destaca os principais fatos do dia e apresenta reportagens produzidas pelas oito emissoras da RPC.",
+            "ResumoImprensa": null,
+            "Destaque": "Telejornal local, exibido de segunda a sábado, ao meio-dia. Destaca os principais fatos do dia e apresenta reportagens produzidas pelas oito emissoras da RPC."
+          },
+          "Elenco": null,
+          "Pais": null,
+          "Classe": "Jornalismo",
+          "TituloOriginal": null,
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Meio Dia Paraná",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": null,
+        "title": null,
+        "description": "Telejornal esportivo local, exibido de segunda a sábado, logo após o Meio Dia Paraná. Com foco em notícias do esporte paranaense, é apresentando integralmente no estado.",
+        "webmedia_title_id": null,
+        "start_time": 1664379780,
+        "end_time": 1664380799,
+        "human_start_time": "15:43:00+00:00",
+        "human_end_time": "15:59:59+00:00",
+        "duration_in_minutes": 16,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/2158.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13534.png",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Telejornal esportivo local, exibido de segunda a sábado, logo após o Meio Dia Paraná.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": null,
+          "Pais": null,
+          "Classe": "Esporte",
+          "TituloOriginal": null,
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Globo Esporte PR",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": null,
+        "title": null,
+        "description": "Horário Político 2022.",
+        "webmedia_title_id": null,
+        "start_time": 1664380800,
+        "end_time": 1664382299,
+        "human_start_time": "16:00:00+00:00",
+        "human_end_time": "16:24:59+00:00",
+        "duration_in_minutes": 24,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/15727.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15726.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Horário Político 2022.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": null,
+          "Pais": null,
+          "Classe": "Jornalismo",
+          "TituloOriginal": null,
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Horário Político 2022",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Jornal Hoje",
+        "description": "Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.",
+        "webmedia_title_id": "KLqhpkkZ5d",
+        "start_time": 1664382300,
+        "end_time": 1664385899,
+        "human_start_time": "16:25:00+00:00",
+        "human_end_time": "17:24:59+00:00",
+        "duration_in_minutes": 59,
+        "live_broadcast": true,
+        "custom_info": {
+          "Diretor": "Ali Kamel",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/13166.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/20.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": null,
+          "Pais": "Brasil",
+          "Classe": "Jornalismo",
+          "TituloOriginal": "Jornal Hoje",
+          "Dublador": null,
+          "URLPrograma": "https://g1.globo.com/jornal-hoje/",
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Jornal Hoje",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 818
+        }
+      },
+      {
+        "media_id": null,
+        "title": null,
+        "description": "Ana Francisca é uma menina humilde, romântica e ingênua que desperta interesse em Danilo na pequena cidade de Ventura, famosa por seus chocolates e bolos artesanais.",
+        "webmedia_title_id": "RgP9J5sC62",
+        "start_time": 1664385900,
+        "end_time": 1664387099,
+        "human_start_time": "17:25:00+00:00",
+        "human_end_time": "17:44:59+00:00",
+        "duration_in_minutes": 19,
+        "live_broadcast": false,
+        "custom_info": {
+          "Diretor": "Direção de núcleo de Jorge Fernando;  direção geral de Fabrício Mamberti e direção de Fred Mayrink",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/15851.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15852.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Ana Francisca é uma menina humilde, romântica e ingênua que desperta interesse em Danilo na pequena cidade de Ventura, famosa por seus chocolates e bolos.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": "Ary Fontoura,Mariana Ximenes,Murilo Benício,Priscila Fantin,Drica Moraes,Osmar Prado,Laura Cardoso,Kayky Brito,Lilia Cabral,Caco Ciocler,Angelo Paes Leme,Samara Felippo,Tarcísio Filho,Nívea Stelmann",
+          "Pais": "Brasileira",
+          "Classe": "Novela",
+          "TituloOriginal": null,
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Chocolate Com Pimenta",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 12993
+        }
+      },
+      {
+        "media_id": null,
+        "title": "O Cravo E A Rosa",
+        "description": "Batista desiste de candidatura para ficar com Joana. Fátima e Jorginho descobre que são irmãos de Catarina e Bianca. Teodoro se torna novo candidato a prefeito e pede Kiki em casamento. Batista aceita casamento entre Bianca e Edmundo. Petruchio convence Marcela a ir ao noivado de Bianca. Noivado começa e Petruchio revela plano para descobrir quem roubou as apólices.",
+        "webmedia_title_id": "7nhwhbjhgL",
+        "start_time": 1664387100,
+        "end_time": 1664389199,
+        "human_start_time": "17:45:00+00:00",
+        "human_end_time": "18:19:59+00:00",
+        "duration_in_minutes": 34,
+        "live_broadcast": false,
+        "custom_info": {
+          "Diretor": "Walter Avancini e Mário Márcio Bandarra",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/13518.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13519.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Batista desiste de candidatura para ficar com Joana e aceita casamento entre Bianca e Edmundo. Petruchio revela plano para descobrir quem roubou as apólices.",
+            "ResumoImprensa": null,
+            "Destaque": "Batista desiste de candidatura para ficar com Joana"
+          },
+          "Elenco": "Adriana Esteves,Eduardo Moscovis,Luís Melo,Ângelo Antônio,Leandra Leal,Ney Latorraca,Maria Padilha",
+          "Pais": "Brasileira",
+          "Classe": "Novela",
+          "TituloOriginal": "O Cravo E A Rosa - Edição Especial - Cap. 1",
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "O Cravo E A Rosa",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 14615
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Quando Em Roma",
+        "description": "Beth é bela e bem-sucedida, mas sem sorte no amor. Quando viaja a Roma para o casamento da irmã, ela visita a Fontada D'Amore e, ao invés de fazer um pedido, resolve roubar algumas moedas. A partir de então, Beth passa a ser perseguida por homens apaixonados.",
+        "webmedia_title_id": null,
+        "start_time": 1664389200,
+        "end_time": 1664395199,
+        "human_start_time": "18:20:00+00:00",
+        "human_end_time": "19:59:59+00:00",
+        "duration_in_minutes": 99,
+        "live_broadcast": false,
+        "custom_info": {
+          "Diretor": "Mark Steven Johnson",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/13865.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/22.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Beth não tem sorte no amor. Ela visita a Fontada D'Amore e resolve roubar algumas moedas. A partir de então, passa a ser perseguida por homens apaixonados.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": "Anjelica Huston; Josh Duhamel; Kristen Bell",
+          "Pais": "Americana",
+          "Classe": "Filme",
+          "TituloOriginal": "When In Rome",
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Sessão da Tarde - Quando Em Roma",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": null,
+        "title": "A Favorita",
+        "description": "Dodi deixa o pai e a irmã serem levados por bandidos por conta de dívidas. Manu revela a Haley que ele é o filho sequestrado de Donatela e Marcelo. Haley fica confuso e Manu diz que leu na carta que Cilene escreveu para ele. Haley fica desesperado ao saber que pode ser irmão de Lara. Manu arma para Dodi e consegue sair da casa dele. Cilene conta para Silveirinha que Haley descobriu toda a verdade. ",
+        "webmedia_title_id": "19pLYkz5mB",
+        "start_time": 1664395200,
+        "end_time": 1664399699,
+        "human_start_time": "20:00:00+00:00",
+        "human_end_time": "21:14:59+00:00",
+        "duration_in_minutes": 74,
+        "live_broadcast": false,
+        "custom_info": {
+          "Diretor": "Ricardo Waddington",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/15143.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/23.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Manu revela a Haley que ele é o filho sequestrado de Donatela e Marcelo. Cilene conta para Silveirinha que Haley descobriu toda a verdade. ",
+            "ResumoImprensa": null,
+            "Destaque": "Manu revela a Haley que ele é o filho sequestrado de Donatela e Marcelo"
+          },
+          "Elenco": "Patrícia Pillar,Claudia Raia,Murilo Benício,Mariana Ximenes,Cauã Reymond,Lilia Cabral,Ary Fontoura,Alexandre Nero,Jackson Antunes,Deborah Secco,Carmo Dalla Vecchia,Juliana Paes",
+          "Pais": "Brasileira",
+          "Classe": "Novela",
+          "TituloOriginal": null,
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Vale a Pena Ver de Novo - A Favorita",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 4490
+        }
+      },
+      {
+        "media_id": null,
+        "title": null,
+        "description": "Diante da discussão da família, Manduca foge da casa do Coronel. Timbó pede um advogado na prisão. Tertulinho e José vão atrás de Manduca. Maruan encontra Manduca na estrada, e pede para o menino leva-lo até a fazendo do avô. Deodora oferece um emprego a Maruan. Candoca conversa com Manduca. O Coronel exige que José jante com sua família. Latifa se irrita com Zahym por ter afastado Maruan. Candoca percebe a amizade entre José e Maruan. Candoca aceita trabalhar com José.\n",
+        "webmedia_title_id": "BWQmvJGbNz",
+        "start_time": 1664399700,
+        "end_time": 1664400299,
+        "human_start_time": "21:15:00+00:00",
+        "human_end_time": "21:24:59+00:00",
+        "duration_in_minutes": 9,
+        "live_broadcast": false,
+        "custom_info": {
+          "Diretor": "Allan Fiterman",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/15713.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15712.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Tertulinho e José vão atrás de Manduca. Candoca percebe a amizade entre José e Maruan. Candoca aceita trabalhar com José.",
+            "ResumoImprensa": null,
+            "Destaque": "Candoca aceita trabalhar com José"
+          },
+          "Elenco": "Isadora Cruz,Sergio Guizé,Renato Góes,José de Abreu,Debora Bloch,Welder Rodrigues,",
+          "Pais": "Brasileira",
+          "Classe": "Novela",
+          "TituloOriginal": null,
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Mar do Sertão",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 20252
+        }
+      },
+      {
+        "media_id": null,
+        "title": null,
+        "description": "Telejornal local, exibido de segunda a sábado, no início da noite..",
+        "webmedia_title_id": null,
+        "start_time": 1664400300,
+        "end_time": 1664401499,
+        "human_start_time": "21:25:00+00:00",
+        "human_end_time": "21:44:59+00:00",
+        "duration_in_minutes": 19,
+        "live_broadcast": true,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": null,
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/2858.png",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Telejornal local, exibido de segunda a sábado, no início da noite..",
+            "ResumoImprensa": null,
+            "Destaque": "Telejornal local, exibido de segunda a sábado, no início da noite.."
+          },
+          "Elenco": null,
+          "Pais": null,
+          "Classe": "Jornalismo",
+          "TituloOriginal": null,
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Boa Noite Paraná",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Cara e Coragem",
+        "description": "Leonardo elogia a descoberta de Margareth. Regina teme que Danilo revele para os compradores que eles estão com a fórmula errada. Pat, Moa e Jonathan especulam sobre o motivo que levaria Margareth a trabalhar para encontrar a modificação da fórmula. Ísis passa mal e revela para Renan que está grávida. Márcia e Olívia ajudam Ísis e se irritam com a atitude de Renan, que se recusa a acompanhar a bailarina até o hospital. Renan faz o solo final do espetáculo e é ovacionado pela plateia. Ítalo conta para Pat, Moa e Rico que abrirá uma nova empresa de segurança. Pat e Moa revelam para os sócios o que descobriram sobre a assistente de Jonathan e pedem para Armandinho tentar desvendar para quem Margareth trabalha. Caio pede mais dinheiro para Regina. Margareth entrega para Danilo a modificação da fórmula. Olívia fica frustrada com a crítica que recebe sobre sua apresentação no espetáculo e exige que Renan crie uma coreografia para ela e Enzo. Anita deixa Jéssica intrigada e pede para ela descobrir por que Robson mentiu sobre Ítalo. Pat tem um pressentimento e teme perder Moa. Nadir exige que Pat expulse Joca de sua casa. A mãe de Ísis pede para falar com Renan. Armandinho tenta seduzir Margareth. Danilo ordena que Duarte entregue para os compradores estrangeiros a modificação da fórmula.\n",
+        "webmedia_title_id": "P8swJxhSnS",
+        "start_time": 1664401500,
+        "end_time": 1664405399,
+        "human_start_time": "21:45:00+00:00",
+        "human_end_time": "22:49:59+00:00",
+        "duration_in_minutes": 64,
+        "live_broadcast": false,
+        "custom_info": {
+          "Diretor": "Natalia Grimberg",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/15227.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15228.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Regina teme que Danilo revele para os compradores que eles estão com a fórmula errada. Ísis passa mal e revela para Renan que está grávida. ",
+            "ResumoImprensa": null,
+            "Destaque": "Regina teme que Danilo revele para os compradores que eles estão com a fórmula errada"
+          },
+          "Elenco": "Paolla Oliveira,Marcelo Serrado,Taís Araujo,Paulo Lessa,Guilherme Weber,Carmo Dalla Vecchia,Ícaro Silva,Mel Lisboa,Ricardo Pereira",
+          "Pais": "Brasileira",
+          "Classe": "Novela",
+          "TituloOriginal": "Cara e Coragem",
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Cara e Coragem",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 19486
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Jornal Nacional",
+        "description": "As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos. ",
+        "webmedia_title_id": "MyCrVrr6gW",
+        "start_time": 1664405400,
+        "end_time": 1664407799,
+        "human_start_time": "22:50:00+00:00",
+        "human_end_time": "23:29:59+00:00",
+        "duration_in_minutes": 39,
+        "live_broadcast": true,
+        "custom_info": {
+          "Diretor": "Ali Kamel",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/4124.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/1526.png",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos. ",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": null,
+          "Pais": "Brasil",
+          "Classe": "Jornalismo",
+          "TituloOriginal": "Jornal Nacional",
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Jornal Nacional",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 819
+        }
+      },
+      {
+        "media_id": null,
+        "title": null,
+        "description": "Horário Político 2022.",
+        "webmedia_title_id": null,
+        "start_time": 1664407800,
+        "end_time": 1664409299,
+        "human_start_time": "23:30:00+00:00",
+        "human_end_time": "23:54:59+00:00",
+        "duration_in_minutes": 24,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/15727.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15726.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Horário Político 2022.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": null,
+          "Pais": null,
+          "Classe": "Jornalismo",
+          "TituloOriginal": null,
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Horário Político 2022",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Pantanal",
+        "description": "Alcides diz a Tibério que se tornará um matador. Renato se impressiona com a emoção de Tenório ao saber que o neto nasceu. José Lucas pede Irma em casamento. José Leôncio sente cansaço e resolve viajar para São Paulo com Jove, a fim de fazer exames. Alcides diz a Maria Bruaca que não tem nada mais a oferecer em troca do amor que ela sente por ele. Alcides pede a Zaquieu que consiga a zagaia de José Leôncio. Maria Bruaca confidencia a Filó a profunda tristeza que sente.\n",
+        "webmedia_title_id": "wM9wJbjHJN",
+        "start_time": 1664409300,
+        "end_time": 1664412299,
+        "human_start_time": "23:55:00+00:00",
+        "human_end_time": "00:44:59+00:00",
+        "duration_in_minutes": 49,
+        "live_broadcast": false,
+        "custom_info": {
+          "Diretor": "Rogério Gomes",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/14556.jpeg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14761.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Alcides diz a Tibério que se tornará um matador.  Renato se impressiona com a emoção de Tenório ao saber que o neto nasceu. José Lucas pede Irma em casamento. ",
+            "ResumoImprensa": null,
+            "Destaque": "José Lucas pede Irma em casamento"
+          },
+          "Elenco": "Alanis Guillen,Juliana Paes,Enrique Diaz,Irandhir Santos,Renato Góes,Marcos Palmeira,Bruna Linzmeyer,Karine Teles,Jesuíta Barbosa,Dira Paes,José Loreto,Osmar Prado,Gabriel Sater,Almir Sater",
+          "Pais": "Brasileira",
+          "Classe": "Novela",
+          "TituloOriginal": null,
+          "Dublador": null,
+          "URLPrograma": "https://gshow.globo.com/novelas/pantanal/",
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Pantanal",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 16286
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Futebol",
+        "description": "Atletico - MG x Palmeiras",
+        "webmedia_title_id": null,
+        "start_time": 1664412300,
+        "end_time": 1664419499,
+        "human_start_time": "00:45:00+00:00",
+        "human_end_time": "02:44:59+00:00",
+        "duration_in_minutes": 119,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/14065.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14066.png",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": "Atletico - MG",
+                  "URL": null,
+                  "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Confronto/10725.png"
+                },
+                {
+                  "Nome": "Palmeiras",
+                  "URL": null,
+                  "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Confronto/668.png"
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Atletico - MG x Palmeiras",
+            "ResumoImprensa": null,
+            "Destaque": "Campeonato Brasileiro - Série A"
+          },
+          "Elenco": null,
+          "Pais": null,
+          "Classe": "Esporte",
+          "TituloOriginal": "Futebol",
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Futebol",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Segue o Jogo",
+        "description": "Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida, com influência da internet, explorando memes, grandes imagens da rodada e até figurinhas das redes sociais. As análises de jogadas, lances polêmicos e desempenho das equipes ficam a cargo do comentarista Paulo Nunes. ",
+        "webmedia_title_id": null,
+        "start_time": 1664419500,
+        "end_time": 1664420399,
+        "human_start_time": "02:45:00+00:00",
+        "human_end_time": "02:59:59+00:00",
+        "duration_in_minutes": 14,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/8071.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/8048.JPG",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Lucas Gutierrez comanda o programa que aborda os jogos de forma leve e divertida. Participação do comentarista Paulo Nunes.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": "Lucas Gutierrez; Paulo Nunes",
+          "Pais": "Brasileira",
+          "Classe": "Esporte",
+          "TituloOriginal": "Segue o Jogo",
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Segue o Jogo",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Que história é essa, Porchat?",
+        "description": "Fábio Porchat propõe a famosos e anônimos compartilharem sua experiências inesquecíveis, engraçadas e até mesmo assustadoras. Exibido originalmente pelo canal GNT.",
+        "webmedia_title_id": null,
+        "start_time": 1664420400,
+        "end_time": 1664423099,
+        "human_start_time": "03:00:00+00:00",
+        "human_end_time": "03:44:59+00:00",
+        "duration_in_minutes": 44,
+        "live_broadcast": false,
+        "custom_info": {
+          "Diretor": "Gigi Soares",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/14940.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/14707.png",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Porchat propõe a famosos e anônimos compartilharem sua experiências inesquecíveis, engraçadas e até mesmo assustadoras. Exibido originalmente pelo canal GNT.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": null,
+          "Pais": "Brasileira",
+          "Classe": "Variedade",
+          "TituloOriginal": "Que História É Essa, Porchat? - Temporada 2022 - Ep. 1",
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Que História É Essa Porchat?",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Jornal da Globo",
+        "description": "As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.",
+        "webmedia_title_id": "HxbxWLmmRz",
+        "start_time": 1664423100,
+        "end_time": 1664425799,
+        "human_start_time": "03:45:00+00:00",
+        "human_end_time": "04:29:59+00:00",
+        "duration_in_minutes": 44,
+        "live_broadcast": true,
+        "custom_info": {
+          "Diretor": "Ali Kamel",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1836.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/13628.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": null,
+          "Pais": "Brasil",
+          "Classe": "Jornalismo",
+          "TituloOriginal": "Jornal da Globo",
+          "Dublador": null,
+          "URLPrograma": "http://g1.globo.com/jornal-da-globo/",
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Jornal da Globo",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 817
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Conversa com Bial",
+        "description": "Pedro Bial  recebe Neuza Back, árbitra selecionada para ser assistente na Copa do Mundo do Catar. A regra é clara: a resenha está imperdível!",
+        "webmedia_title_id": "MGYtfFpVzF",
+        "start_time": 1664425800,
+        "end_time": 1664428199,
+        "human_start_time": "04:30:00+00:00",
+        "human_end_time": "05:09:59+00:00",
+        "duration_in_minutes": 39,
+        "live_broadcast": false,
+        "custom_info": {
+          "Diretor": "Monica Almeida",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/1191.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/31.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Pedro Bial  recebe Neuza Back, árbitra selecionada para ser assistente na Copa do Mundo do Catar. A regra é clara: a resenha está imperdível!",
+            "ResumoImprensa": null,
+            "Destaque": "Neuza Back"
+          },
+          "Elenco": "Pedro Bial,",
+          "Pais": "Brasil",
+          "Classe": "Variedade",
+          "TituloOriginal": "Conversa com Bial",
+          "Dublador": null,
+          "URLPrograma": "http://gshow.globo.com/programas/conversa-com-bial/",
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Conversa com Bial",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 10086
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Cara e Coragem",
+        "description": "Leonardo elogia a descoberta de Margareth. Regina teme que Danilo revele para os compradores que eles estão com a fórmula errada. Pat, Moa e Jonathan especulam sobre o motivo que levaria Margareth a trabalhar para encontrar a modificação da fórmula. Ísis passa mal e revela para Renan que está grávida. Márcia e Olívia ajudam Ísis e se irritam com a atitude de Renan, que se recusa a acompanhar a bailarina até o hospital. Renan faz o solo final do espetáculo e é ovacionado pela plateia. Ítalo conta para Pat, Moa e Rico que abrirá uma nova empresa de segurança. Pat e Moa revelam para os sócios o que descobriram sobre a assistente de Jonathan e pedem para Armandinho tentar desvendar para quem Margareth trabalha. Caio pede mais dinheiro para Regina. Margareth entrega para Danilo a modificação da fórmula. Olívia fica frustrada com a crítica que recebe sobre sua apresentação no espetáculo e exige que Renan crie uma coreografia para ela e Enzo. Anita deixa Jéssica intrigada e pede para ela descobrir por que Robson mentiu sobre Ítalo. Pat tem um pressentimento e teme perder Moa. Nadir exige que Pat expulse Joca de sua casa. A mãe de Ísis pede para falar com Renan. Armandinho tenta seduzir Margareth. Danilo ordena que Duarte entregue para os compradores estrangeiros a modificação da fórmula.\n",
+        "webmedia_title_id": "P8swJxhSnS",
+        "start_time": 1664428200,
+        "end_time": 1664430299,
+        "human_start_time": "05:10:00+00:00",
+        "human_end_time": "05:44:59+00:00",
+        "duration_in_minutes": 34,
+        "live_broadcast": false,
+        "custom_info": {
+          "Diretor": "Natalia Grimberg",
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/15227.png",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15228.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Regina teme que Danilo revele para os compradores que eles estão com a fórmula errada. Ísis passa mal e revela para Renan que está grávida. ",
+            "ResumoImprensa": null,
+            "Destaque": "Regina teme que Danilo revele para os compradores que eles estão com a fórmula errada"
+          },
+          "Elenco": "Paolla Oliveira,Marcelo Serrado,Taís Araujo,Paulo Lessa,Guilherme Weber,Carmo Dalla Vecchia,Ícaro Silva,Mel Lisboa,Ricardo Pereira",
+          "Pais": "Brasileira",
+          "Classe": "Novela",
+          "TituloOriginal": "Cara e Coragem",
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Reapresentação Novela II - Cara E Coragem",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": 19486
+        }
+      },
+      {
+        "media_id": null,
+        "title": "Comédia Na Madruga - Vai Que Cola",
+        "description": "Exibição da primeira temporada do Vai Que Cola.",
+        "webmedia_title_id": null,
+        "start_time": 1664430300,
+        "end_time": 1664434799,
+        "human_start_time": "05:45:00+00:00",
+        "human_end_time": "06:59:59+00:00",
+        "duration_in_minutes": 74,
+        "live_broadcast": false,
+        "custom_info": {
+          "BaseUTCOffset": "-03:00",
+          "Graficos": {
+            "URL": null,
+            "Trailler": null,
+            "ImagemURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Imagem/15256.jpg",
+            "PosterURL": null,
+            "LogoURL": "https://s3.glbimg.com/v1/AUTH_947d0a0390ad47fbba7a4b93423e1004/Logo/15241.jpg",
+            "Confronto": {
+              "Oponente": [
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                },
+                {
+                  "Nome": null,
+                  "URL": null,
+                  "ImagemURL": null
+                }
+              ]
+            }
+          },
+          "Resumo": {
+            "Sinopse": "Exibição da primeira temporada do Vai Que Cola.",
+            "ResumoImprensa": null,
+            "Destaque": null
+          },
+          "Elenco": null,
+          "Pais": "Brasileira",
+          "Classe": "Humorístico",
+          "TituloOriginal": "Comédia Na Madruga - Vai Que Cola",
+          "Dublador": null,
+          "URLPrograma": null,
+          "Video": "HD",
+          "ClosedCaption": null
+        },
+        "program": {
+          "id": null,
+          "name": "Comédia Na Madruga I",
+          "category": null,
+          "parental_guide": null,
+          "webmedia_program_id": null
+        }
+      }
+    ]
+  }
+}
